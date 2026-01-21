@@ -1,0 +1,8 @@
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Debug\GameProgII_Chal2_Inheritance-Ben.F.csproj.AssemblyReference.cache
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Debug\GameProgII_Chal2_Inheritance-Ben.F.csproj.CoreCompileInputs.cache
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Debug\GameProgII_Chal2_Inheritance-Ben.F.exe.config
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Debug\GameProgII_Chal2_Inheritance-Ben.F.exe
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Debug\GameProgII_Chal2_Inheritance-Ben.F.pdb
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Debug\GameProgII_Chal2_Inheritance-Ben.F.exe
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Debug\GameProgII_Chal2_Inheritance-Ben.F.pdb
+C:\Users\w0527459\Documents\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Debug\GameProgII_Chal2_Inheritance-Ben.F.exe.config
