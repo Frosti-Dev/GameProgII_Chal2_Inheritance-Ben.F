@@ -30,15 +30,15 @@ namespace GameProgII_Chal2_Inheritance_Ben.F
         {
             string playerAnswer = Console.ReadLine();
 
-            if(playerAnswer == _answerText)
+            if(playerAnswer.ToUpper() == _answerText.ToUpper())
             {
-                Debug.WriteLine($"{playerAnswer} = true");
+                Debug.WriteLine($"{playerAnswer} = correct");
                 return true;
             }
 
             else
             {
-                Debug.WriteLine($"{playerAnswer} = false");
+                Debug.WriteLine($"{playerAnswer} = incorrect");
                 return false;
             }
         }
@@ -66,7 +66,7 @@ namespace GameProgII_Chal2_Inheritance_Ben.F
 
             while (true)
             {
-                ConsoleKeyInfo keyInfo = Console.ReadKey();
+                ConsoleKeyInfo keyInfo = Console.ReadKey(true);
 
                 switch (keyInfo.Key) 
                 {
@@ -165,9 +165,32 @@ namespace GameProgII_Chal2_Inheritance_Ben.F
         }
     }
 
-    //class TrueOrFalseQuestion : Question
-    //{
+    class TrueOrFalseQuestion : Question
+    {
+        bool _answerAsBool;
 
-    //}
+        public TrueOrFalseQuestion(string questionText, bool answerAsBool) : base(questionText, answerAsBool.ToString())
+        {
+            _answerAsBool = answerAsBool;
+        }
 
+        public override bool CheckAnswer()
+        {
+            string playerAnswer = Console.ReadLine();
+
+            if (playerAnswer.ToUpper() == _answerAsBool.ToString().ToUpper())
+            {
+                Debug.WriteLine($"{playerAnswer} = correct");
+                return true;
+            }
+
+
+            else
+            {
+                Debug.WriteLine($"{playerAnswer} = incorrect");
+                return false;
+            }
+
+        }
+    }
 }
