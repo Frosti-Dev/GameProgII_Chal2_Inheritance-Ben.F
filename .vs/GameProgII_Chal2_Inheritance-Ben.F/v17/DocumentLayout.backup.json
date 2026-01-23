@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\school\\programming code\\GameProgII_Chal2_Inheritance-Ben.F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|C:\\school\\programming code\\GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|solutionrelative:GameProgII_Chal2_Inheritance-Ben.F\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|c:\\school\\programming code\\gameprogii_chal2_inheritance-ben.f\\gameprogii_chal2_inheritance-ben.f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|solutionrelative:gameprogii_chal2_inheritance-ben.f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|c:\\school\\programming code\\gameprogii_chal2_inheritance-ben.f\\gameprogii_chal2_inheritance-ben.f\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|C:\\school\\programming code\\GameProgII_Chal2_Inheritance-Ben.F\\gameprogii_chal2_inheritance-ben.f\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0333ADFB-1EC4-48F0-BDAD-EFC710AFF35F}|GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F.csproj|solutionrelative:gameprogii_chal2_inheritance-ben.f\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "GameProgII_Chal2_Inheritance-Ben.F\\Program.cs",
               "ToolTip": "C:\\school\\programming code\\GameProgII_Chal2_Inheritance-Ben.F\\GameProgII_Chal2_Inheritance-Ben.F\\Program.cs",
               "RelativeToolTip": "GameProgII_Chal2_Inheritance-Ben.F\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwFcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:40:37.058Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "GameProgII_Chal2_Inheritance-Ben.F\\Question.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T12:43:21.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T12:43:21.816Z"
             }
           ]
         }

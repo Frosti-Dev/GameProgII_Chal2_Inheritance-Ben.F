@@ -1,0 +1,7 @@
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Release\GameProgII_Chal2_Inheritance-Ben.F.exe.config
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Release\GameProgII_Chal2_Inheritance-Ben.F.exe
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\bin\Release\GameProgII_Chal2_Inheritance-Ben.F.pdb
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Release\GameProgII_Chal2_Inheritance-Ben.F.csproj.AssemblyReference.cache
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Release\GameProgII_Chal2_Inheritance-Ben.F.csproj.CoreCompileInputs.cache
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Release\GameProgII_Chal2_Inheritance-Ben.F.exe
+C:\school\programming code\GameProgII_Chal2_Inheritance-Ben.F\GameProgII_Chal2_Inheritance-Ben.F\obj\Release\GameProgII_Chal2_Inheritance-Ben.F.pdb
